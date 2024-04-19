@@ -1,25 +1,4 @@
-<img src="https://raw.githubusercontent.com/blocklistproject/Lists/master/img/logo.webp" height="150px"/>  
 
-# The Block List Project
-
-[![GitHub issues](https://img.shields.io/github/issues/blocklistproject/lists)](https://github.com/blocklistproject/Lists/issues)
-[![GitHub closed issues](https://badgen.net/github/closed-issues/blocklistproject/Lists?color=green)](https://github.com/blocklistproject/Lists/issues?q=is%3Aissue+is%3Aclosed)
-[![GitHub contributors](https://img.shields.io/github/contributors/blocklistproject/lists)](https://github.com/blocklistproject/Lists/graphs/contributors)
-![GitHub repo size](https://img.shields.io/github/repo-size/blocklistproject/lists)
-![GitHub](https://img.shields.io/github/license/blocklistproject/lists?color=blue)
-![GitHub Maintained](https://img.shields.io/badge/Open%20Source-Yes-green)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/blocklistproject/lists)
-![GitHub last commit](https://img.shields.io/github/last-commit/blocklistproject/lists)
-![GitHub Maintained](https://img.shields.io/badge/maintained-yes-green)
-[![ko-fi](https://badgen.net/badge/Support%20Us/Ko-Fi?color=orange)](https://ko-fi.com/P5P521OPP)
-[![patreon](https://badgen.net/badge/Support%20Us/Patreon?color=red)](https://www.patreon.com/bePatron?u=8892646)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fblocklistproject%2FLists&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Traffic+%28Daily%2FTotal%29&edge_flat=false)
-
-&nbsp;
-
-## Make sure to join our discord! This project does take a fair amount of time to maintain. Please consider joining our patreon and help support our efforts, thank you!
-
-&nbsp;
 
 <p align="center">
 <a href="https://www.patreon.com/bePatron?u=8892646"><img src="https://i0.wp.com/thelemicunion.com/wp-content/uploads/2018/07/Patreon-Support-Button.png?w=640&ssl=1" width=250></a>
